@@ -331,7 +331,7 @@ sections:
         content_align: left
         actions:
           - label: Order Now
-            url: /features
+            url: /thank-you
             style: primary
         actions_align: left
         actions_width: full-width
