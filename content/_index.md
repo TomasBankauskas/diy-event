@@ -415,7 +415,7 @@ sections:
     title: Current prices only $49. The price will increase soon!
     actions:
       - label: Get tickets
-        url: /pricing
+        url: /thank-you
         style: primary
         has_icon: true
         icon: arrow-right
