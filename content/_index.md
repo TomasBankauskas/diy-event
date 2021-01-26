@@ -84,7 +84,7 @@ sections:
     title: Current prices only $49. The price will increase soon!
     actions:
       - label: Get tickets
-        url: 'https://getcruise.com/careers/jobs'
+        url: /thank-you
         style: primary
         has_icon: true
         icon: arrow-right
