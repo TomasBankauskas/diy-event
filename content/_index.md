@@ -412,7 +412,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 15
   - type: cta_section
-    title: Current price is $49. The price for the ticket will increase soon!
+    title: Current price starts from $49. It will increase soon!
     actions:
       - label: Get tickets
         url: /thank-you
