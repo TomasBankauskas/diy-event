@@ -7,7 +7,7 @@ sections:
     content: April 15 - 16 2021
     actions:
       - label: Get Your Ticket Today!
-        url: /about
+        url: /thank-you
         style: primary
     media_position: left
     media_width: fifty
@@ -197,7 +197,7 @@ sections:
   - type: features_section
     title: Watch Favorite Talks From Past Events
     subtitle: 2019
-    features: null
+    features: {}
     align: center
     background_color: secondary
   - type: features_section
