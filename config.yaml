@@ -1,0 +1,46 @@
+title: Stackbit DIY Theme
+baseURL: /
+params:
+  description: A "do it yourself" theme for Stackbit
+  layout: full-width
+  style: classic
+  palette: red
+  mode: light
+  base_font: sans-serif
+  header:
+    title: DIY
+    logo: images/logo.svg
+    has_secondary_nav: true
+    secondary_nav_links:
+      - label: About
+        url: /about
+        style: link
+      - label: Sponsorship
+        url: /sponsorship
+      - label: Tickets
+        url: thank-you
+        style: primary
+    has_anncmnt: false
+    anncmnt_content: >-
+      Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn
+      More](/pricing/)**
+    anncmnt_align: left
+    anncmnt_is_home_only: true
+    anncmnt_has_close: true
+    anncmnt_id: new-features
+  footer:
+    content: '&copy; Stackbit-DIY. All rights reserved.'
+    links:
+      - label: Made with Stackbit.
+        url: 'https://www.stackbit.com'
+        style: link
+taxonomies:
+  stub: stub
+disableKinds:
+  - RSS
+  - taxonomy
+  - taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
