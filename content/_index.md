@@ -81,7 +81,7 @@ sections:
     padding_top: none
     background_color: none
   - type: cta_section
-    title: Current prices only $49. The price will increase soon!
+    title: Current prices starts from $49. The price will increase soon!
     actions:
       - label: Get tickets
         url: /thank-you
